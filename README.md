@@ -1,8 +1,7 @@
 # What Do SHAP Values Actually Explain?
 
 A simulation study of SHAP feature attributions across model classes, sparsity levels and
-covariate correlation, with an exact analytical benchmark. Graduate course project,
-MATH 782 (Model Selection), McGill University.
+covariate correlation, with an exact analytical benchmark. 
 
 **The question.** SHAP is routinely read as "which variables drive the outcome." But SHAP
 values are computed from a *fitted model*, not from the data-generating process. When the
